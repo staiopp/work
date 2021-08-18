@@ -17,7 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# DYmusic
 
 # 说明
 这是本人第一次基于vue-cli、vue-router、vue-axios、element做的音乐项目，
